@@ -1,2 +1,2 @@
 console.log("Hello World")
-XD 
+XD LOL 
